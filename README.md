@@ -34,3 +34,13 @@ Module 1: Pre-processing, Analysing data using Python and SQL.
 Module 2: Visualizing data using Power bi.
 
 ## Visualizing data using Power BI.
+
+<p align="center">
+    <img src="Screenshot (55).png" width="750">
+</p>
+
+<p align="center">
+    <img src="Screenshot (56).png" width="750">
+</p>
+
+
